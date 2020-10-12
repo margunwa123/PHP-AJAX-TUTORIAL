@@ -1,0 +1,22 @@
+{
+  "heroes" : {
+    "0" : {
+      "name" : "mirana",
+      "gender" : "girl",
+      "damage" : "medium",
+      "range" : "ranged"
+    },
+    "1" : {
+      "name" : "windranger",
+      "gender" : "girl",
+      "damage" : "high",
+      "range" : "ranged"
+    }
+  },
+  "gametype": ["rpg", "moba", "team-based"],
+  "server": {
+    "0" : "asia",
+    "1" : "europe",
+    "2" : ["america", "alasca"]
+  }
+}
